@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Kiwi (2.4.0)
+  - mdpd (0.1.0):
+    - AFNetworking (~> 2.3)
+
+DEPENDENCIES:
+  - Kiwi
+  - mdpd (from `../`)
+
+EXTERNAL SOURCES:
+  mdpd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  mdpd: 53250e8f9af2a13d9a10a5062c4b7c91d80d28b6
+
+PODFILE CHECKSUM: 3a5e1ff66eb4bbe8feb903351418f766c2c7b694
+
+COCOAPODS: 1.2.0

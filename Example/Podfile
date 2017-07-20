@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mdpd_Example' do
+  pod 'mdpd', :path => '../'
+
+  target 'mdpd_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
