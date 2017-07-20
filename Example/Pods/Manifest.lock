@@ -20,12 +20,10 @@ PODS:
   - AFNetworking/UIKit (2.6.3):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - Kiwi (2.4.0)
   - mdpd (0.1.0):
     - AFNetworking (~> 2.3)
 
 DEPENDENCIES:
-  - Kiwi
   - mdpd (from `../`)
 
 EXTERNAL SOURCES:
@@ -34,9 +32,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
-  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
-  mdpd: 53250e8f9af2a13d9a10a5062c4b7c91d80d28b6
+  mdpd: 6b68359a4c474a8e18706d6663cbbeacd9f909ba
 
-PODFILE CHECKSUM: 3a5e1ff66eb4bbe8feb903351418f766c2c7b694
+PODFILE CHECKSUM: a86f25c7da20ff4fcdb19242d4ce9d47bb039e76
 
 COCOAPODS: 1.2.0

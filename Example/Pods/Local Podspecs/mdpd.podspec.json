@@ -1,9 +1,9 @@
 {
   "name": "mdpd",
   "version": "0.1.0",
-  "summary": "A short description of mdpd.",
+  "summary": "test 说明",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/liumengdi666@163.com/mdpd",
+  "homepage": "https://github.com/liumengdi666/mdpd.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "liumengdi666@163.com": "liumengdi666@163.com"
   },
   "source": {
-    "git": "https://github.com/liumengdi666@163.com/mdpd.git",
+    "git": "https://github.com/liumengdi666/mdpd.git",
     "tag": "0.1.0"
   },
   "platforms": {
